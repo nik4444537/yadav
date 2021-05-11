@@ -8,7 +8,7 @@ var menu=[
         name:"Buttermilk pancake",
         price:"$15.99",
         category:"Breakfast",
-        image:"images/diner-double.jpg",
+        image:"diner-double.jpg",
         content:"I am baby woke milkshake wolf bitter live edge"+
         "blue water hamcake freegen water mug"+
         "whatever cold pressure",
@@ -18,7 +18,7 @@ var menu=[
         name1:"Diner double",
         price1:"$ 51399",
         category1:"Lunch",
-        image1:"images/godzilla-milkshake.jpg",
+        image1:"godzilla-milkshake.jpg",
         content1:"I am baby woke milkshake wolf bitter live edge"+
         "blue water hamcake freegen water mug"+
         "whatever cold pressure"
@@ -29,7 +29,7 @@ var menu=[
         name:"godzilla milkshake",
         price:"$10.99",
         category:"Lunch",
-        image:"images/country-delight.jpg",
+        image:"country-delight.jpg",
         content:"jgjg ijgjg rtt door ooi wpppw iigig"+
         "gjgj 0jrfoj tirk8jbg jgjgjjd ejejje"+
        "whatever cold pressure",
@@ -39,7 +39,7 @@ var menu=[
         name1:"Country delight",
         price1:"$7.99",
         category1:"Lunch",
-        image1:"images/diner-double.jpg",
+        image1:"diner-double.jpg",
         content1:"I am baby woke milkshake wolf bitter live edge"+
         "blue water hamcake freegen water mug"+
         "whatever cold pressure"
@@ -51,7 +51,7 @@ var menu=[
         name:"Kong butter",
         price:"$18.99",
         category:"Shakes",
-        image:"images/kong-butter.jpg",
+        image:"kong-butter.jpg",
         content:"I am baby woke milkshake wolf bitter live edge"+
         "blue water hamcake freegen water mug"+
         "whatever cold pressure",
@@ -61,7 +61,7 @@ var menu=[
         name1:"Hulk shake",
         price1:"$19.99",
         category1:"Dinner",
-        image1:"images/buttermilk-pancake.jpg",
+        image1:"buttermilk-pancake.jpg",
         content1:"I am baby woke milkshake wolf bitter live edge"+
         "blue water hamcake freegen water mug"+
         "whatever cold pressure"
