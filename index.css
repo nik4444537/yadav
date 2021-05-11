@@ -1,0 +1,90 @@
+
+
+
+
+
+
+
+
+body{
+background-color: whitesmoke;
+}
+
+
+
+/* design heading */
+.heading{
+    text-align: center;
+    padding-top:4%;
+}
+
+/* differnt categories */
+.options{
+    text-align: center;
+    padding-top:2%;
+}
+
+/* container of items */
+
+.box{
+    position:relative;
+    margin-top:5%;
+}
+
+/* content box */
+.content{
+display: inline;
+}
+
+/* images of food */
+
+img{
+    height:100%;
+    width:95%;
+    border-radius:4%;
+    border-style: solid;
+    border-color: yellow;
+}
+
+/* buttermilk panacake box */
+.buttermilk-pancake{
+    width:35%;
+    height:50%;
+    float:left;
+}
+
+/* heading of buttermilk-pnacake  */
+.nameing{
+    display: inline;
+    font-family:serif;
+}
+
+/* price of buttermilk-pnacake */
+.price{
+    display: inline;
+    position:relative;
+    left:12%;
+    font-display:bold;
+}
+
+/* description box */
+.description{
+    display:inline;
+    background-color: yellow;
+    position:relative;
+    top:5%;
+    line-height:110%;
+    font-size: smal;
+}
+
+.dinner-double{
+    margin-left: 0;
+}
+
+.btn{
+    background-color: transparent;
+    border-color: yellow;
+    border-radius:13%;
+    color: yellowgreen;
+}
+
